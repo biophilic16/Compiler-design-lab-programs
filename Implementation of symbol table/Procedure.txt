@@ -1,0 +1,6 @@
+1.copy the code and paste and save it as exp.c ( file type : all files)
+2.using command prompt go the location or type cmd on the file explorer path bar. 
+3.command prompt opens.
+4.commands to execute:-
+	-gcc exp.c
+	-a.exe
