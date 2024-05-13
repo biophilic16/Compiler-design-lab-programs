@@ -1,0 +1,9 @@
+1.copy the lex code and paste and save it as lex.l ( file type : all files)
+2.copy the yacc code and paste, save it as yacc.y (file type : all files)
+3.using command prompt go the location or type cmd on the file explorer path bar. 
+4.command prompt opens.
+5.commands to execute:-
+	-flex lex.l
+	-bison -dy yacc.y
+	-gcc lex.yy.c y.tab.c
+	-a.exe
