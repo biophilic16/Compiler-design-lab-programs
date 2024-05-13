@@ -1,7 +1,8 @@
-1.copy the code and paste and save it as exp.c ( file type : all files)
-2.copy the small code and paste, save it as input.c (file type : all files)
+1.copy the lex code and paste and save it as lex.l ( file type : all files)
+2.copy the c program and paste, save it as input.c (file type : all files)
 3.using command prompt go the location or type cmd on the file explorer path bar. 
 4.command prompt opens.
 5.commands to execute:-
-	-gcc exp.c
+	-flex lex.l
+	-gcc lex.yy.c
 	-a.exe
